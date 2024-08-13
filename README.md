@@ -6,7 +6,7 @@ I am dedicated to creating robust, scalable, and user-centric software solutions
 My journey in Full Stack Development is driven by a continuous desire to learn and innovate.
 
 ## 🛠 Skills and Technologies
-- **Programming Languages:** C, Java, JavaScript, HTML, CSS
+- **Programming Languages:** Java, JavaScript,HTML,CSS,C++, C.  
 - **Frameworks & Libraries:** React, Node.js, Express
 - **Databases:** MySQL, Oracle.
   
